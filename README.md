@@ -136,7 +136,6 @@ This project focuses on analyzing and forecasting daily support incident volumes
 - Statsmodels
 - Scikit-learn
 - Jupyter Notebook
-- Power BI (Dashboard)
 
 ---
 
