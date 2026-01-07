@@ -30,90 +30,105 @@ This project focuses on analyzing and forecasting daily support incident volumes
 
 ### 📊 Daily Incident Volume
 ![Daily Incident Volume](./images/Daily%20Incident%20Volume.png)
+
 *Displays the total number of incidents recorded per day.*
 
 ---
 
 ### 📈 Daily Incident Volume Over Time
 ![Daily Incident Volume Over Time](./images/Daily%20Incident%20Volume%20Over%20Time.png)
+
 *Shows how incident volume changes over time, highlighting long-term patterns.*
 
 ---
 
 ### 📉 Trend using 7-Day Rolling Average
 ![7-Day Rolling Trend](./images/Trend%20using%207-Day%20Rolling%20Average.png)
+
 *Smooths short-term fluctuations to clearly reveal the underlying trend.*
 
 ---
 
 ### 📅 Average Incidents by Day of Week
 ![Day of Week](./images/Average%20Incidents%20by%20Day%20of%20Week.png)
+
 *Highlights which weekdays experience higher incident volumes.*
 
 ---
 
 ### 📅 Average Incidents by Month
 ![Month](./images/Average%20Incidents%20by%20Month.png)
+
 *Shows monthly seasonality patterns.*
 
 ---
 
 ### 🔁 Rolling Mean & Standard Deviation
 ![Rolling Mean & Std](./images/Rolling%20Mean%20%26%20Std%20Deviation.png)
+
 *Used to check stationarity by observing mean and variance stability.*
 
 ---
 
 ### 🔄 After First Differencing
 ![First Differencing](./images/After%20First%20Differencing.png)
+
 *Helps stabilize the time series and remove trend components.*
 
 ---
 
 ### ✂️ Train–Test Split
 ![Train Test Split](./images/Train–Test%20Split.png)
+
 *Illustrates how historical data is split for forecasting evaluation.*
 
 ---
 
 ### 📊 ACF Plot
 ![ACF Plot](./images/ACF%20Plot.png)
+
 *Identifies autocorrelation across different lag values.*
 
 ---
 
 ### 📊 PACF Plot
 ![PACF Plot](./images/PACF%20Plot.png)
+
 *Helps determine the appropriate AR terms for the model.*
 
 ---
 
 ### 📉 SARIMA Forecast vs Actual
 ![SARIMA Forecast](./images/SARIMA%20Forecast%20vs%20Actual.png)
+
 *Compares predicted incident volumes against actual observed values.*
 
 ---
 
 ### 📉 Residuals Over Time
 ![Residuals Over Time](./images/Residuals%20Over%20Time.png)
+
 *Checks whether residuals are randomly distributed over time.*
 
 ---
 
 ### 📈 Residual Distribution
 ![Residual Distribution](./images/Residual%20Distribution.png)
+
 *Validates the normality assumption of model residuals.*
 
 ---
 
 ### 📊 ACF of Residuals
 ![ACF Residuals](./images/ACF%20of%20Residuals.png)
+
 *Ensures no significant autocorrelation remains after modeling.*
 
 ---
 
 ### 🆚 Model Comparison of Incident Volume Forecasting
 ![Model Comparison](./images/Model%20Comparison%20of%20Incident%20Volume%20Forecasting.png)
+
 *Compares forecasting models based on performance metrics such as MAE.*
 
 
