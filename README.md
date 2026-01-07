@@ -1,7 +1,7 @@
 # 📊 Support Incident Volume Forecasting 🚨
 
 ## 📌 Project Overview
-This project focuses on analyzing and forecasting daily support incident volumes to help operations and support teams plan resources more effectively. Using time series analysis and forecasting techniques, historical incident data was explored to identify trends, seasonality, and patterns. Multiple forecasting models were built and evaluated to determine the best-performing approach. The project also includes a performance dashboard and rich visual insights for business stakeholders.
+This project focuses on analyzing and forecasting daily support incident volumes to help operations and support teams plan resources more effectively. Using time series analysis and forecasting techniques, historical incident data was explored to identify trends, seasonality, and patterns. Multiple forecasting models were built and evaluated to determine the best-performing approach.
 
 ---
 
@@ -125,7 +125,6 @@ This project focuses on analyzing and forecasting daily support incident volumes
 - First differencing was required to achieve stationarity
 - Residual diagnostics confirmed model reliability
 - Forecasts can support staffing and workload planning
-- Dashboards enable faster operational decision-making
 
 ---
 
