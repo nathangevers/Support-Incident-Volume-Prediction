@@ -19,7 +19,7 @@ This project focuses on analyzing and forecasting daily support incident volumes
 - Rolling Mean & Standard Deviation Analysis
 - Stationarity Check using Differencing
 - ACF & PACF Analysis
-- ARIMA & SARIMA Forecasting Models
+- SARIMA & Holt-Winters Forecasting Models
 - Train–Test Split for Time Series
 - Residual Diagnostics & Model Validation
 - Model Comparison using MAE
@@ -148,7 +148,7 @@ This project focuses on analyzing and forecasting daily support incident volumes
    ```
    cd Support-Incident-Volume-Forecasting
    ```
-**3. Create and Activate a Virtual Environment (Recommended):**
+**3. Create and Activate a Virtual Environment:**
    ```
    python -m venv venv
    ```
